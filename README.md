@@ -44,4 +44,4 @@ nmp run serve
 ![Image text](https://github.com/tysong1/bird-admin/blob/master/images/12.png)
 
 欢迎加入我们
-![Image text](https://github.com/tysong1/bird-admin/blob/master/images/13.png)
+![Image text](https://github.com/tysong1/bird-admin/blob/master/images/13.jpg)
