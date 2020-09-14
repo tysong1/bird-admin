@@ -1,0 +1,82 @@
+[
+    {
+        "label": "首页",
+        "icon": "pi pi-fw pi-home",
+        "to": "/"
+    },
+    {
+        "label": "后台系统",
+        "icon": "pi pi-fw pi-home",
+        "items": [
+            {
+                "label": "性能监控",
+                "icon": "pi pi-fw pi-home",
+                "to": "/systemMarket/main"
+            }
+        ]
+    },
+    {
+        "label": "管理员专区",
+        "icon": "pi pi-fw pi-home",
+         "items": [
+             {
+                 "label": "用户管理",
+                 "icon": "pi pi-fw pi-bookmark",
+                 "to": "/user/main"
+             },
+             {
+                 "label": "角色管理",
+                 "icon": "pi pi-fw pi-bookmark",
+                 "to": "/role/main"
+             },
+             {
+                 "label": "权限管理",
+                 "icon": "pi pi-fw pi-bookmark",
+                 "to": "/permission/main"
+             },
+             {
+                 "label": "菜单管理",
+                 "icon": "pi pi-fw pi-bookmark",
+                 "to": "/menu/main"
+             }
+         ]
+    },
+    {
+        "label": "高级功能(开发者)",
+        "icon": "pi pi-fw pi-bookmark",
+         "items": [ {
+             "label": "进度条",
+             "icon": "pi pi-fw pi-bookmark",
+             "to": "/processBar/main"
+         }, {
+             "label": "消息提示",
+             "icon": "pi pi-fw pi-bookmark",
+             "to": "/tips/main"
+         }]
+    },
+    {
+        "label": "操作日志",
+        "icon": "pi pi-fw pi-bookmark",
+        "to": "/operatorLog/main"
+    },
+    {
+        "label": "文件上传",
+        "icon": "pi pi-fw pi-bookmark",
+        "to": "/upload/main"
+    },
+    {
+        "label": "图表",
+        "icon": "pi pi-fw pi-bookmark",
+        "to": "/charts/main"
+    },
+    {
+        "label": "富文本",
+        "icon": "pi pi-fw pi-bookmark",
+        "to": "/editor/main"
+    },
+    {
+        "label": "其他",
+        "icon": "pi pi-fw pi-bookmark",
+        "to": "/other/main"
+    }
+]

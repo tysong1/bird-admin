@@ -1,0 +1,51 @@
+{
+  "data": {
+    "upTime": "1.4 week",
+    "startTime": "2020-08-31 23:55:00",
+    "heapUsed": "51.59%",
+    "nonHeapUsed": "10.89%",
+    "linedata": {
+      "labels": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July"
+      ],
+      "datasets": [
+        {
+          "label": "tys1",
+          "data": [
+            65,
+            59,
+            80,
+            81,
+            56,
+            55,
+            40
+          ],
+          "fill": false,
+          "backgroundColor": "#2f4860",
+          "borderColor": "#2f4860"
+        },
+        {
+          "label": "tys2",
+          "data": [
+            28,
+            48,
+            40,
+            19,
+            86,
+            27,
+            90
+          ],
+          "fill": false,
+          "backgroundColor": "#00bb7e",
+          "borderColor": "#00bb7e"
+        }
+      ]
+    }
+  }
+}

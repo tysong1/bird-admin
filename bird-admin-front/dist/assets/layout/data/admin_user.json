@@ -1,0 +1,46 @@
+{
+	"data": [
+		{
+			"id": "1",
+			"name": "admin123",
+			"password": "tys123",
+			"last_login_ip": "",
+			"last_login_time": "",
+			"icon": "https://juhuixing-public.oss-cn-shenzhen.aliyuncs.com/luq950dq4wzhsn54eq1y.jpeg",
+			"dateAdd": "1/2/2018 00:00:00",
+			"dateUpdate": "21/12/2019 13:21:18",
+			"deleted": "0",
+			"descption": "",
+			"tel": "",
+			"mail": ""
+		},
+		{
+			"id": "4",
+			"name": "promotion123",
+			"password": "$2a$10$wDZLOLLnzZ1EFZ3ldZ1XFOUWDEX6TnQCUFdJz4g.PoMaLTzS8TjWq",
+			"last_login_ip": "",
+			"last_login_time": "",
+			"icon": "'",
+			"dateAdd": "7/1/2019 15:16:59",
+			"dateUpdate": "7/1/2019 15:17:34",
+			"deleted": "1",
+			"descption": "",
+			"tel": "",
+			"mail": ""
+		},
+		{
+			"id": "5",
+			"name": "dtsdemo",
+			"password": "$2a$10$zhzZI1jKYFSE/uLfKC0Mo.V0F1EhYFEJqx4UAvDkrFFK3zf69K08K",
+			"last_login_ip": "",
+			"last_login_time": "",
+			"icon": "https://juhuixing-dts.oss-cn-shenzhen.aliyuncs.com/lb4z86x7mr735sy91ys9.jpeg",
+			"dateAdd": "7/1/2019 15:17:25",
+			"dateUpdate": "21/12/2019 13:21:43",
+			"deleted": "0",
+			"descption": "",
+			"tel": "",
+			"mail": ""
+		}
+	]
+}

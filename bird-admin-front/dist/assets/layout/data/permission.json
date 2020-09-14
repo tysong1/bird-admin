@@ -1,0 +1,412 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "role_id": "1",
+      "permission": "*",
+      "add_time": "1/1/2019 00:00:00",
+      "update_time": "1/1/2019 00:00:00",
+      "deleted": "0"
+    },
+    {
+      "id": "2",
+      "role_id": "2",
+      "permission": "admin:category:read",
+      "add_time": "7/1/2019 15:18:53",
+      "update_time": "7/1/2019 15:18:53",
+      "deleted": "0"
+    },
+    {
+      "id": "3",
+      "role_id": "2",
+      "permission": "admin:category:update",
+      "add_time": "7/1/2019 15:18:53",
+      "update_time": "7/1/2019 15:18:53",
+      "deleted": "0"
+    },
+    {
+      "id": "4",
+      "role_id": "2",
+      "permission": "admin:category:delete",
+      "add_time": "7/1/2019 15:18:53",
+      "update_time": "7/1/2019 15:18:53",
+      "deleted": "0"
+    },
+    {
+      "id": "5",
+      "role_id": "2",
+      "permission": "admin:category:create",
+      "add_time": "7/1/2019 15:18:53",
+      "update_time": "7/1/2019 15:18:53",
+      "deleted": "0"
+    },
+    {
+      "id": "6",
+      "role_id": "2",
+      "permission": "admin:category:list",
+      "add_time": "7/1/2019 15:18:53",
+      "update_time": "7/1/2019 15:18:53",
+      "deleted": "0"
+    },
+    {
+      "id": "7",
+      "role_id": "2",
+      "permission": "admin:brand:create",
+      "add_time": "7/1/2019 15:18:53",
+      "update_time": "7/1/2019 15:18:53",
+      "deleted": "0"
+    },
+    {
+      "id": "8",
+      "role_id": "2",
+      "permission": "admin:brand:list",
+      "add_time": "7/1/2019 15:18:53",
+      "update_time": "7/1/2019 15:18:53",
+      "deleted": "0"
+    },
+    {
+      "id": "9",
+      "role_id": "2",
+      "permission": "admin:brand:delete",
+      "add_time": "7/1/2019 15:18:53",
+      "update_time": "7/1/2019 15:18:53",
+      "deleted": "0"
+    },
+    {
+      "id": "10",
+      "role_id": "2",
+      "permission": "admin:brand:read",
+      "add_time": "7/1/2019 15:18:53",
+      "update_time": "7/1/2019 15:18:53",
+      "deleted": "0"
+    },
+    {
+      "id": "11",
+      "role_id": "2",
+      "permission": "admin:brand:update",
+      "add_time": "7/1/2019 15:18:53",
+      "update_time": "7/1/2019 15:18:53",
+      "deleted": "0"
+    },
+    {
+      "id": "12",
+      "role_id": "3",
+      "permission": "admin:ad:list",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "13",
+      "role_id": "3",
+      "permission": "admin:ad:delete",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "14",
+      "role_id": "3",
+      "permission": "admin:ad:create",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "15",
+      "role_id": "3",
+      "permission": "admin:ad:update",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "16",
+      "role_id": "3",
+      "permission": "admin:ad:read",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "17",
+      "role_id": "3",
+      "permission": "admin:groupon:list",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "18",
+      "role_id": "3",
+      "permission": "admin:groupon:update",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "19",
+      "role_id": "3",
+      "permission": "admin:groupon:create",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "20",
+      "role_id": "3",
+      "permission": "admin:groupon:read",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "21",
+      "role_id": "3",
+      "permission": "admin:groupon:delete",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "22",
+      "role_id": "3",
+      "permission": "admin:topic:create",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "23",
+      "role_id": "3",
+      "permission": "admin:topic:read",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "24",
+      "role_id": "3",
+      "permission": "admin:topic:list",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "25",
+      "role_id": "3",
+      "permission": "admin:topic:delete",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "26",
+      "role_id": "3",
+      "permission": "admin:topic:update",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "27",
+      "role_id": "3",
+      "permission": "admin:coupon:list",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "28",
+      "role_id": "3",
+      "permission": "admin:coupon:delete",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "29",
+      "role_id": "3",
+      "permission": "admin:coupon:read",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "30",
+      "role_id": "3",
+      "permission": "admin:coupon:create",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "31",
+      "role_id": "3",
+      "permission": "admin:coupon:update",
+      "add_time": "7/1/2019 15:18:57",
+      "update_time": "7/1/2019 15:18:57",
+      "deleted": "0"
+    },
+    {
+      "id": "32",
+      "role_id": "4",
+      "permission": "admin:groupon:update",
+      "add_time": "15/12/2019 12:30:30",
+      "update_time": "15/12/2019 12:30:30",
+      "deleted": "0"
+    },
+    {
+      "id": "33",
+      "role_id": "4",
+      "permission": "admin:groupon:delete",
+      "add_time": "15/12/2019 12:30:30",
+      "update_time": "15/12/2019 12:30:30",
+      "deleted": "0"
+    },
+    {
+      "id": "34",
+      "role_id": "4",
+      "permission": "admin:groupon:create",
+      "add_time": "15/12/2019 12:30:30",
+      "update_time": "15/12/2019 12:30:30",
+      "deleted": "0"
+    },
+    {
+      "id": "35",
+      "role_id": "4",
+      "permission": "admin:groupon:list",
+      "add_time": "15/12/2019 12:30:30",
+      "update_time": "15/12/2019 12:30:30",
+      "deleted": "0"
+    },
+    {
+      "id": "36",
+      "role_id": "4",
+      "permission": "admin:groupon:read",
+      "add_time": "15/12/2019 12:30:30",
+      "update_time": "15/12/2019 12:30:30",
+      "deleted": "0"
+    },
+    {
+      "id": "37",
+      "role_id": "4",
+      "permission": "admin:order:list",
+      "add_time": "15/12/2019 12:30:31",
+      "update_time": "15/12/2019 12:30:31",
+      "deleted": "0"
+    },
+    {
+      "id": "38",
+      "role_id": "4",
+      "permission": "admin:order:reply",
+      "add_time": "15/12/2019 12:30:31",
+      "update_time": "15/12/2019 12:30:31",
+      "deleted": "0"
+    },
+    {
+      "id": "39",
+      "role_id": "4",
+      "permission": "admin:order:ship",
+      "add_time": "15/12/2019 12:30:31",
+      "update_time": "15/12/2019 12:30:31",
+      "deleted": "0"
+    },
+    {
+      "id": "40",
+      "role_id": "4",
+      "permission": "admin:order:refund",
+      "add_time": "15/12/2019 12:30:31",
+      "update_time": "15/12/2019 12:30:31",
+      "deleted": "0"
+    },
+    {
+      "id": "41",
+      "role_id": "4",
+      "permission": "admin:order:listShip",
+      "add_time": "15/12/2019 12:30:31",
+      "update_time": "15/12/2019 12:30:31",
+      "deleted": "0"
+    },
+    {
+      "id": "42",
+      "role_id": "4",
+      "permission": "admin:order:read",
+      "add_time": "15/12/2019 12:30:31",
+      "update_time": "15/12/2019 12:30:31",
+      "deleted": "0"
+    },
+    {
+      "id": "43",
+      "role_id": "4",
+      "permission": "admin:comment:list",
+      "add_time": "15/12/2019 12:30:31",
+      "update_time": "15/12/2019 12:30:31",
+      "deleted": "0"
+    },
+    {
+      "id": "44",
+      "role_id": "4",
+      "permission": "admin:goods:update",
+      "add_time": "15/12/2019 12:30:31",
+      "update_time": "15/12/2019 12:30:31",
+      "deleted": "0"
+    },
+    {
+      "id": "45",
+      "role_id": "4",
+      "permission": "admin:goods:delete",
+      "add_time": "15/12/2019 12:30:31",
+      "update_time": "15/12/2019 12:30:31",
+      "deleted": "0"
+    },
+    {
+      "id": "46",
+      "role_id": "4",
+      "permission": "admin:goods:create",
+      "add_time": "15/12/2019 12:30:31",
+      "update_time": "15/12/2019 12:30:31",
+      "deleted": "0"
+    },
+    {
+      "id": "47",
+      "role_id": "4",
+      "permission": "admin:goods:list",
+      "add_time": "15/12/2019 12:30:31",
+      "update_time": "15/12/2019 12:30:31",
+      "deleted": "0"
+    },
+    {
+      "id": "48",
+      "role_id": "4",
+      "permission": "admin:goods:read",
+      "add_time": "15/12/2019 12:30:31",
+      "update_time": "15/12/2019 12:30:31",
+      "deleted": "0"
+    },
+    {
+      "id": "49",
+      "role_id": "4",
+      "permission": "admin:stat:user",
+      "add_time": "15/12/2019 12:30:32",
+      "update_time": "15/12/2019 12:30:32",
+      "deleted": "0"
+    },
+    {
+      "id": "50",
+      "role_id": "4",
+      "permission": "admin:stat:order",
+      "add_time": "15/12/2019 12:30:32",
+      "update_time": "15/12/2019 12:30:32",
+      "deleted": "0"
+    },
+    {
+      "id": "51",
+      "role_id": "4",
+      "permission": "admin:stat:goods",
+      "add_time": "15/12/2019 12:30:32",
+      "update_time": "15/12/2019 12:30:32",
+      "deleted": "0"
+    }
+  ]
+}

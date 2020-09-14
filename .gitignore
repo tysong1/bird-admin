@@ -22,3 +22,4 @@ bird-admin-api/bird-admin-dao/src/main/resources/
 bird-admin-api/bird-admin-dao/src/test/
 bird-admin-api/bird-admin-service/src/main/resources/
 bird-admin-api/bird-admin-service/src/test/
+/bird-admin-front/node_modules/

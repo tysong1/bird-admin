@@ -23,7 +23,9 @@ application.properties spring.datasource.url
 spring-logback.xml logDir
 
 启动项目
-前端:cd bird-admin-front nmp run serve
+前端:cd bird-admin-front 
+nmp install
+nmp run serve
 后台:更改mysql地址，创建相应的数据库。运行程序会自动生成表。sql/data/提供了示范数据。
 程序运行建立好表后，导入示范数据，重启java后台
 
