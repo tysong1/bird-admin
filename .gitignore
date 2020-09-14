@@ -22,8 +22,3 @@ bird-admin-api/bird-admin-dao/src/main/resources/
 bird-admin-api/bird-admin-dao/src/test/
 bird-admin-api/bird-admin-service/src/main/resources/
 bird-admin-api/bird-admin-service/src/test/
-bird-admin-front/.idea/codeStyles/
-bird-admin-front/.idea/inspectionProfiles/
-bird-admin-front/.idea/modules.xml
-bird-admin-front/.idea/vcs.xml
-bird-admin-front/.idea/workspace.xml
