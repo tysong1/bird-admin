@@ -29,3 +29,5 @@ nmp run serve
 后台:更改mysql地址，创建相应的数据库。运行程序会自动生成表。sql/data/提供了示范数据。
 程序运行建立好表后，导入示范数据，重启java后台
 
+部分软件截图
+![Image text](https://github.com/tysong1/bird-admin/blob/master/images/1.png)
