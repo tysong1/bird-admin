@@ -31,3 +31,17 @@ nmp run serve
 
 部分软件截图
 ![Image text](https://github.com/tysong1/bird-admin/blob/master/images/1.png)
+![Image text](https://github.com/tysong1/bird-admin/blob/master/images/2.png)
+![Image text](https://github.com/tysong1/bird-admin/blob/master/images/3.png)
+![Image text](https://github.com/tysong1/bird-admin/blob/master/images/4.png)
+![Image text](https://github.com/tysong1/bird-admin/blob/master/images/5.png)
+![Image text](https://github.com/tysong1/bird-admin/blob/master/images/6.png)
+![Image text](https://github.com/tysong1/bird-admin/blob/master/images/7.png)
+![Image text](https://github.com/tysong1/bird-admin/blob/master/images/8.png)
+![Image text](https://github.com/tysong1/bird-admin/blob/master/images/9.png)
+![Image text](https://github.com/tysong1/bird-admin/blob/master/images/10.png)
+![Image text](https://github.com/tysong1/bird-admin/blob/master/images/11.png)
+![Image text](https://github.com/tysong1/bird-admin/blob/master/images/12.png)
+
+欢迎加入我们
+![Image text](https://github.com/tysong1/bird-admin/blob/master/images/13.png)
