@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
 
-    <property name="logDir" value="/data/logs/bird-mmall" />
+    <property name="logDir" value="/data/logs/bird-admin" />
 
     <!-- 控制台 appender -->
     <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
