@@ -6,7 +6,9 @@
 
 **一、快速启动：**
 **1.1、更改数据库连接字符串**
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201013223622792.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIzNjk1ODg5,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201013231111144.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIzNjk1ODg5,size_16,color_FFFFFF,t_70#pic_center)
+
+
 **1.2、执行maven build**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201013223839706.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIzNjk1ODg5,size_16,color_FFFFFF,t_70#pic_center)
 mvn clean install -amd
