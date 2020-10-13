@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "超级管理员",
+      "descption": "所有模块的权限",
+      "enabled": "1",
+      "add_time": "1/1/2019 00:00:00",
+      "update_time": "1/1/2019 00:00:00",
+      "deleted": "0",
+      "user_id": "1"
+    },
+    {
+      "id": "2",
+      "name": "商场管理员",
+      "descption": "只有商场模块的操作权限",
+      "enabled": "1",
+      "add_time": "1/1/2019 00:00:00",
+      "update_time": "7/1/2019 15:15:12",
+      "deleted": "0",
+      "user_id": "4"
+    },
+    {
+      "id": "3",
+      "name": "推广管理员",
+      "descption": "只有推广模块的操作权限",
+      "enabled": "1",
+      "add_time": "1/1/2019 00:00:00",
+      "update_time": "7/1/2019 15:15:24",
+      "deleted": "0",
+      "user_id": "4"
+    },
+    {
+      "id": "4",
+      "name": "品牌制造商",
+      "descption": "普通商户",
+      "enabled": "1",
+      "add_time": "22/6/2019 21:28:19",
+      "update_time": "22/6/2019 21:54:45",
+      "deleted": "0",
+      "user_id": "5"
+    }
+  ]
+}
