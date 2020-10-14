@@ -1,6 +1,6 @@
 **开源一套简单通用的后台管理系统 Bird-admin**
 
-***github地址：https://github.com/tysong1/bird-admin***
+***git地址：https://gitee.com/tysong1/bird-admin/tree/master***
 
 后端采用Springboot 利用spring jpa，spring cache、shiro等技术实现权限管理，菜单管理等功能。 利用aspcetJ等实现 rt拦截监控。集成cpu、内存、硬盘等监控让你随时了解你的后台运行状态， 集成操作日志记录，记录关键记录修改。
 
